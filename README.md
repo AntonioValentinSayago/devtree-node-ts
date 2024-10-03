@@ -1,4 +1,4 @@
-# Frontend Mentor - REST Countries API with color theme switcher 1.1.11
+# Frontend Mentor - REST Countries API with color theme switcher 1.2.11
 
 ![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
 
