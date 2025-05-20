@@ -2,8 +2,9 @@ import { Router } from "express";
 
 const router = Router();
 
-router.get('/', (req, res) =>{
-    res.send('Hello World');
+/** Autenticacion y Registro */
+router.get("/auth/register", (req, res) => {
+    res.send("Register");
 })
 
 export default router;
