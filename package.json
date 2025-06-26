@@ -27,7 +27,8 @@
     "express": "^5.1.0",
     "express-validator": "^7.2.1",
     "mongoose": "^8.15.0",
-    "slug": "^11.0.0"
+    "slug": "^11.0.0",
+    "sonner": "^2.0.5"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
