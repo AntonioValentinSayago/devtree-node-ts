@@ -8,7 +8,7 @@ const router = Router();
 /** Autenticacion y Registro */
 router.post("/auth/register", 
     body('handle').notEmpty().withMessage('El handle no puede ir vacio'),
-    body('nombre').notEmpty().withMessage('El nombre no puede ir vacio'),
+    body('name').notEmpty().withMessage('El nombre no puede ir vacio'),
     body('email').isEmail().withMessage('El email no es un formato valido'),
     body('password')
         .isLength({min: 8})

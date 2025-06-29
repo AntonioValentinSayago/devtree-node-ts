@@ -8,7 +8,7 @@ import { corsConfig } from './config/cors.ts';
 connectDB();
 const app = express();
 
-// * Configuracion de Cors
+// Configuracion de Cors
 app.use(cors(corsConfig))
 
 // Leer datos de - posman y/o formulario
