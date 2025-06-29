@@ -31,6 +31,7 @@ export default function RegisterView() {
             }
         }
     }
+
     return (
         <>
             <div className="text-4xl text-white font-black">Crear cuenta</div>
