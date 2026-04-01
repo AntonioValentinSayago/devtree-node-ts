@@ -1,4 +1,4 @@
-# Frontend Mentor - REST Countries API with color theme switcher 3.0.8 2026
+# Frontend Mentor - REST Countries API with color theme switcher 3.1.8 2026
 
 ![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
 
